@@ -1,0 +1,13 @@
+{
+  "name": "genpark-two-handed-clock-page-replacement-skill",
+  "version": "1.0.0",
+  "description": "Operating system two-handed clock virtual memory page replacement algorithm with reference bit clearance and proactive page aging.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "virtual-memory",
+    "clock-page-replacement",
+    "two-handed-clock",
+    "os-paging"
+  ]
+}
